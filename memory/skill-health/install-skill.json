@@ -1,0 +1,20 @@
+{
+  "skill": "install-skill",
+  "last_analyzed": "2026-11-22T14:44:09Z",
+  "quality_score": 2,
+  "assessment": "The output reports a real blocker and preserves existing changes, but the skill’s main job—installing the pack and shipping an auto-merged PR—was not completed. The branch failure is not independently verifiable from the output.",
+  "flags": [
+    "low_quality",
+    "unverifiable_claim"
+  ],
+  "avg_score": 2,
+  "history": [
+    {
+      "date": "2026-11-22",
+      "score": 2,
+      "ts": "2026-11-22T14:44:09Z",
+      "harness": "codex",
+      "model": "gpt-6-luna"
+    }
+  ]
+}
