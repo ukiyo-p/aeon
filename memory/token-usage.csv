@@ -1,3 +1,4 @@
 date,skill,model,input_tokens,output_tokens,cache_read,cache_creation
 2026-11-22,aeon-update,gpt-6-luna,18261,1363,252672,0
 2026-11-22,install-skill,gpt-6-luna,27240,1234,141696,0
+2026-11-24,aeon-update,gpt-6-luna,65977,1888,204928,0
